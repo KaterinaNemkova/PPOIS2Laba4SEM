@@ -28,12 +28,12 @@
 ### Добавление информации о преподавателе
 Для добавления преподавателя необходимо нажать `Добавить запись`. Открывается окно, в котором пользователь может ввести данные о преподавателе.
 
-![add_pet](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/78539050-1d41-42a3-ab3d-f33e859ebed9)
+![добавление](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
 Поля Факультет, Наименование кафедры, Ученое звание, Ученая степень можно выбрать из выдвигающегося списка. Также предусмотрен функционал, который после выбора факультета предлагать кафедры 
 только для выбранного факультета.
 
-![add_pet](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/78539050-1d41-42a3-ab3d-f33e859ebed9)
+![выюор_по_факультету](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B2%D1%8B%D0%B1%D0%BE%D1%801.png)
 
 В данной процедуре добавления обработаны такие ошибки, как:
 ```
@@ -43,26 +43,28 @@
 ```
 Пример некорректного ввода:
 
-![add_pet](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/78539050-1d41-42a3-ab3d-f33e859ebed9)
+![проверка1](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%201.png)
 
-![add_pet](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/78539050-1d41-42a3-ab3d-f33e859ebed9)
+![проверка2](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%202.png)
 
-![add_pet](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/78539050-1d41-42a3-ab3d-f33e859ebed9)
+![проверка3](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%203.png)
 
 ## Поиск преподавателя
 В данной программе реализована логика поиска преподавателя. Результаты поиска преподавателй отображаются в новой таблице, где указывается, сколько преподавателей было найдено или не найдено ни одного. 
 
-![search_by_filter](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/41783cfa-3af3-48ca-a508-ae59c4d63a60)
+![search_by_filter](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA.png)
 
+![найдено](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%BD%D0%B0%D0%B9%D0%BB%D0%B5%D0%BD%D1%8B%20%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8.png)
 
-![search_by_filter](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/41783cfa-3af3-48ca-a508-ae59c4d63a60)
+![не найдено](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D0%BD%D0%B5%20%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD%D1%8B.png)
+
 
 
 ### Удаление питомца
-В данной программе реализована логика удаления преподавателя. Удалять мы можем по заявленным критериям. Критерии могут быть выбраны поодиночке - пользователь сам выбирает необходимый критерий удаления преподавателя. При успешном удалении выводится окно успеха с количеством удаленных записей. При неуспешном сообщается о несуществовании такой записи в таблице. Пустые поля оставлять нельзя. После успешного либо неуспешного удаления поля ввода критерия обнуляются.
+В данной программе реализована логика удаления преподавателя. Удалять мы можем по заявленным критериям. Критерии могут быть выбраны поодиночке - пользователь сам выбирает необходимый критерий удаления преподавателя. При успешном удалении выводится окно успеха с количеством удаленных записей. При неуспешном сообщается о несуществовании такой записи в таблице. После успешного либо неуспешного удаления поля ввода критерия обнуляются.
 
-![delete](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/aa1fc267-fd4b-4c32-ba51-594e06855122)
+![delete](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9.png)
 
 
-![delete matches](https://github.com/Mariannnnaaaaa/ppois-2-2024/assets/115795639/8e8bee1c-6572-4562-839f-24b090e12b93)
+![delete matches](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D0%BC%20%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BE.png)
 
