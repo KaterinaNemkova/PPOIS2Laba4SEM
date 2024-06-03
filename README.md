@@ -30,10 +30,10 @@
 
 ![добавление](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
-Поля Факультет, Наименование кафедры, Ученое звание, Ученая степень можно выбрать из выдвигающегося списка. Также предусмотрен функционал, который после выбора факультета предлагать кафедры 
+Поля Факультет, Наименование кафедры, Ученое звание, Ученая степень можно выбрать из выдвигающегося списка. Также предусмотрен функционал, который после выбора факультета будет предлагать кафедры 
 только для выбранного факультета.
 
-![выюор_по_факультету](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B2%D1%8B%D0%B1%D0%BE%D1%801.png)
+![выбор_по_факультету](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%B2%D1%8B%D0%B1%D0%BE%D1%801.png)
 
 В данной процедуре добавления обработаны такие ошибки, как:
 ```
@@ -67,4 +67,7 @@
 
 
 ![delete matches](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D0%BC%20%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BE.png)
+
+![delete matches](https://github.com/KaterinaNemkova/PPOIS2Laba4SEM/blob/main/photo/%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9.png)
+
 
